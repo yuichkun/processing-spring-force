@@ -21,7 +21,7 @@ class Spring {
   }
 
   void show() {
-    stroke(200,100,100, 200);
+    stroke(200,100,100, 255);
     curveVertex(a.pos.x, a.pos.y);
   }
 }
